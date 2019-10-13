@@ -27,7 +27,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+- [X] check
+- [ ] not checked
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
