@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+- [X] check
+- [ ] not checked
 
 **Bold** and _Italic_ and `Code` text
 
